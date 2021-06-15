@@ -15,6 +15,3 @@ _book
 examples/__build__
 coverage
 yarn.lock
-
-## Built folders
-lib
